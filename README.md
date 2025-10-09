@@ -7,3 +7,4 @@
 - 💬 Ask me about Flipper Zero
 - 📫 How to reach me: not at the moment
 - ⚡ Fun fact: I work with computers a lot.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberSecRamen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
