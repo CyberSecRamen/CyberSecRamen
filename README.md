@@ -1,6 +1,6 @@
 ## Ramen.
 
-- 🔭 I’m currently working on Offsec learning
+- 🔭 I’m currently working on Minecraft ForceOP epxoits | OffSec learning
 - 🌱 I’m currently learning Python, Javascipt, HTML, CSS, JSON, OffSec, Flipper Zero things
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing 
